@@ -1,5 +1,4 @@
-# Assessment-for-SQA-Task
-MAAC Assessment for SQA Task
+# SQA Project 
 
 ## Prerequisites
 
