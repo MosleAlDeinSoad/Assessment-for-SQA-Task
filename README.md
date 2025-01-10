@@ -1,4 +1,4 @@
-# SQA Project 
+# SQA Automation Project 
 
 ## Prerequisites
 
